@@ -200,6 +200,44 @@ Urban Agglomeration; Industrial Agglomeration; Employment Space
 英文关键词数量少于中文关键词，存在遗漏。
 
 
+### 7. 图表英文名称规范
+
+正确示例：
+
+- 图的英文使用 Fig.1
+- 表的英文使用 Tab.1
+
+错误示例：
+
+- 图的英文使用 Figure.1
+- 表的英文使用 Table.1
+
+### 8. 序号使用规范
+
+- 在每段开头，用半括号表示顺序1）2）...
+- 在段落中，用圈码表示顺序①② ...
+
+正确示例1：
+
+1）中央政府层面 ，推动引进外资从政策优惠向规则引领转型...
+2）地方政府层面，推动嵌入式招商机制，引导外资企业与本地企业、高校 ...
+3）外资企业层面，倡导外资企业在中国深度嵌入，加强本地产学研合作 ...
+
+正确示例2：
+
+The dynamic relationship between foreign-invested enterprises (FIEs) and localities
+constitutes a classic topic in economic geography. Clarifying the evolutionary patterns of this re‐
+lationship represents an essential prerequisite for promoting high-quality regional development.
+This paper systematically reviews the developmental trajectory and theoretical underpinnings of
+three key processes—location choice, local embeddedness, and strategic coupling—of FIEs. It
+develops an analytical framework for dynamic strategic coupling, explicates the multifaceted im‐
+pacts of FIEs on local development, and outlines potential avenues for future research. The prin‐
+cipal findings are as follows: ①The geographic pattern of FIE location choice currently shrinks
+and shows regionalization characteristics; the driving force shifts to prioritize non-economic fac‐
+tors; ②During local embeddedness processes, FIEs form diverse embeddedness types while em‐
+beddedness experiences dual influence from parent companies and host countries; ③In dynamic strategic coupling processes, power relations between FIEs and localities continuously transform; decoupling phenomena occur frequently and form different decoupling modes.
+
+
 ---
 
 ### 第三阶段：检查标题规范
