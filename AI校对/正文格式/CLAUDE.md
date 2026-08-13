@@ -1,18 +1,10 @@
 # 期刊论文语言与格式校对
 
-## 角色定位
+按以下条目逐项检查，发现问题时列出原文并给出修改建议。
 
-你是一名经验丰富的中文学术期刊编辑，负责对论文进行语言、格式、编号和一致性检查。你的任务不是修改学术观点、研究方法和结论，而是发现并指出论文中存在的语言、格式和编辑规范问题。
+## 检查条目
 
-## 工作原则
-
-按照以下顺序进行检查：
-
-### 第一阶段：优先检查明显错误
-
-首先检查容易客观判断的错误，包括但不限于：
-
-#### 1. 多字、少字、漏字
+### 1. 检查多字、少字、漏字
 
 识别明显存在缺字、多字、重复字的问题。
 
@@ -30,7 +22,7 @@
 
 * 建议：结果表明产业集聚显著促进就业空间分布。
 
-#### 2. 病句
+### 2. 检查病句
 
 检查语法错误，包括：
 
@@ -41,7 +33,7 @@
 * 逻辑错误
 * 指代不明
 
-#### 3. 前后不一致
+### 3. 检查前后不一致
 
 检查全文是否存在：
 
@@ -59,7 +51,7 @@
 * 前文使用“产业集聚指数”，后文使用“产业集中指数”
 * 前文使用“POI数据”，后文使用“Poi数据”
 
-#### 4. 表达不通顺
+### 4. 检查表达是否通顺
 
 识别虽然语法基本正确，但阅读不流畅的句子。
 
@@ -72,7 +64,7 @@
 * 冗余表达
 * 逻辑衔接不顺
 
-#### 5. 表达不规范
+### 5. 检查表达是否规范
 
 检查学术论文中常见的不规范表达：
 
@@ -81,18 +73,14 @@
 * 非学术化表述
 * 不严谨用语
 
----
-
-### 第二阶段：检查格式与规范问题
-
-#### 1. 时间范围连接符
+### 6. 检查时间范围连接符
 
 检查时间范围是否使用正确连接符。
 
 规范：
 
-* 时间范围使用："—"
-* 短语连接使用："-"
+* 时间范围使用：“—”
+* 短语连接使用：“-”
 
 正确示例：
 
@@ -110,18 +98,43 @@
 * 2000-2020年
 * 2010-2022年
 
----
+### 7. 检查图表英文名称规范
 
-#### 2. 收稿日期与修订日期
+检查图与表的英文名称写法。
+
+正确示例：
+
+* 图的英文使用 Fig.1
+* 表的英文使用 Tab.1
+
+错误示例：
+
+* 图的英文使用 Figure.1
+* 表的英文使用 Table.1
+
+### 8. 检查序号使用规范
+
+- 在每段开头，用半括号表示顺序 1）2）...
+- 在段落中，用圈码表示顺序 ①② ...
+
+正确示例1：
+
+1）中央政府层面 ，推动引进外资从政策优惠向规则引领转型...
+2）地方政府层面，推动嵌入式招商机制，引导外资企业与本地企业、高校...
+3）外资企业层面，倡导外资企业在中国深度嵌入，加强本地产学研合作...
+
+正确示例2：
+
+The dynamic relationship between foreign-invested enterprises (FIEs) and localities constitutes a classic topic in economic geography. Clarifying the evolutionary patterns of this relationship represents an essential prerequisite for promoting high-quality regional development. This paper systematically reviews the developmental trajectory and theoretical underpinnings of three key processes—location choice, local embeddedness, and strategic coupling—of FIEs. It develops an analytical framework for dynamic strategic coupling, explicates the multifaceted impacts of FIEs on local development, and outlines potential avenues for future research. The principal findings are as follows: ①The geographic pattern of FIE location choice currently shrinks and shows regionalization characteristics; the driving force shifts to prioritize non-economic factors; ②During local embeddedness processes, FIEs form diverse embeddedness types while embeddedness experiences dual influence from parent companies and host countries; ③In dynamic strategic coupling processes, power relations between FIEs and localities continuously transform; decoupling phenomena occur frequently and form different decoupling modes.
+
+### 9. 检查收稿日期与修订日期
 
 检查论文第一页是否填写：
 
 * 收稿日期
 * 修订日期
 
----
-
-#### 3. 图表编号
+### 10. 检查图表编号
 
 检查：
 
@@ -136,9 +149,7 @@
 * 图1后直接出现图3
 * 文中引用图4，但实际只有图3
 
----
-
-#### 4. 章节编号
+### 11. 检查章节编号
 
 检查章节编号顺序是否正确。
 
@@ -159,9 +170,7 @@
 * 1.3
 * 2
 
----
-
-#### 5. 公式编号
+### 12. 检查公式编号
 
 检查：
 
@@ -174,7 +183,7 @@
 * （1）后直接出现（3）
 * 文中引用式（8），实际不存在
 
-### 6. 关键词检查
+### 13. 检查中英文关键词
 
 检查论文是否提供中英文关键词，以及二者是否对应。
 
@@ -183,7 +192,7 @@
 * 是否同时提供中文关键词和英文关键词；
 * 英文关键词数量是否与中文关键词一致；
 * 中英文关键词含义是否对应；
-* 英文关键词是否存在明显拼写错误；
+* 英文关键词是否存在明显拼写错误。
 
 示例：
 
@@ -199,52 +208,17 @@ Urban Agglomeration; Industrial Agglomeration; Employment Space
 
 英文关键词数量少于中文关键词，存在遗漏。
 
+### 14. 检查表格中的单位格式
 
-### 7. 图表英文名称规范
+检查表格中“指标/单位”的写法。
 
-正确示例：
+错误示例：GDP（万元）
 
-- 图的英文使用 Fig.1
-- 表的英文使用 Tab.1
+正确示例：GDP/万元
 
-错误示例：
+### 15. 检查标题与副标题样式
 
-- 图的英文使用 Figure.1
-- 表的英文使用 Table.1
-
-### 8. 序号使用规范
-
-- 在每段开头，用半括号表示顺序1）2）...
-- 在段落中，用圈码表示顺序①② ...
-
-正确示例1：
-
-1）中央政府层面 ，推动引进外资从政策优惠向规则引领转型...
-2）地方政府层面，推动嵌入式招商机制，引导外资企业与本地企业、高校 ...
-3）外资企业层面，倡导外资企业在中国深度嵌入，加强本地产学研合作 ...
-
-正确示例2：
-
-The dynamic relationship between foreign-invested enterprises (FIEs) and localities
-constitutes a classic topic in economic geography. Clarifying the evolutionary patterns of this re‐
-lationship represents an essential prerequisite for promoting high-quality regional development.
-This paper systematically reviews the developmental trajectory and theoretical underpinnings of
-three key processes—location choice, local embeddedness, and strategic coupling—of FIEs. It
-develops an analytical framework for dynamic strategic coupling, explicates the multifaceted im‐
-pacts of FIEs on local development, and outlines potential avenues for future research. The prin‐
-cipal findings are as follows: ①The geographic pattern of FIE location choice currently shrinks
-and shows regionalization characteristics; the driving force shifts to prioritize non-economic fac‐
-tors; ②During local embeddedness processes, FIEs form diverse embeddedness types while em‐
-beddedness experiences dual influence from parent companies and host countries; ③In dynamic strategic coupling processes, power relations between FIEs and localities continuously transform; decoupling phenomena occur frequently and form different decoupling modes.
-
-
----
-
-### 第三阶段：检查标题规范
-
-#### 副标题检查
-
-如果论文题目存在副标题，必须提醒编辑检查副标题样式是否符合期刊规范。
+如果论文题目存在副标题，检查副标题样式是否符合期刊规范。
 
 例如：
 
@@ -255,65 +229,3 @@ beddedness experiences dual influence from parent companies and host countries; 
 英文标题：
 
 The impact of central city industries on the spatial distribution of intercity commuting population in the context of metropolitan integration: A case study of the Wuhan Metropolitan Area
-
----
-
-## 输出要求
-
-按照问题严重程度排序输出。
-
-采用以下格式：
-
-### 一、明显错误（优先修改）
-
-1. 原文：
-   （原句）
-
-   问题：
-   （多字/少字/病句等）
-
-   建议：
-   （修改建议）
-
----
-
-### 二、表达不当或不通顺
-
-1. 原文：
-   （原句）
-
-   问题：
-   （表达不顺、逻辑不清等）
-
-   建议：
-   （优化表达）
-
----
-
-### 三、格式与规范检查
-
-* 时间连接符检查：
-
-* 收稿日期与修订日期检查：
-
-* 图表编号检查：
-
-* 章节编号检查：
-
-* 公式编号检查：
-
-* 标题与副标题检查：
-
----
-
-## 注意事项
-
-1. 优先发现客观错误（多字、少字、病句、编号错误）。
-2. 不要为了修改而修改。
-3. 不改变作者原意。
-4. 不评价研究内容质量。
-5. 不修改学术观点和结论。
-6. 仅指出问题并给出修改建议。
-7. 如果某项未发现问题，明确说明“未发现明显问题”。
-8. 输出时引用原文片段，便于编辑快速定位。
-9. 对于不确定是否属于错误的内容，标注“建议核查”，不要直接判定错误。
